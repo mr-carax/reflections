@@ -1,0 +1,2 @@
+Como eu criei o lesson_3_reflections.txt no repositorio local do computador, resolver criar esta copia para seguir o exercicio.
+Este arquivo foi criado atraves do GitHub. Posteriormente, farei git pull para trazer o arquivo para o repositorio local.
